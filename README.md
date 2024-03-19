@@ -34,7 +34,7 @@
  <img src="https://img.shields.io/badge/-rm9261470349-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rm9261470349@gmail.com"/>
 </a>
 <a href="mailto: rostislav-mansurov-08@mail.ru">
- <img src="https://img.shields.io/badge/-rostislav-mansurov-08-c14438?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:rostislav-mansurov-08@mail.ru"/>
+ <img src="https://img.shields.io/badge/-rostislav-c14438?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:rostislav-mansurov-08@mail.ru"/>
 </a>
 <a href="https://t.me/RM1238g">
  <img src="https://img.shields.io/badge/-Rostislav-blue?style=flat-square&logo=vk&logoColor=white&link=https://vk.com/id689745650"/>
