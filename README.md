@@ -40,7 +40,7 @@
  <img src="https://img.shields.io/badge/-Rostislav-blue?style=flat-square&logo=vk&logoColor=white&link=https://vk.com/id689745650"/>
 </a>
 <a href="https://www.youtube.com/channel/UCuBgbZkcrRdV_9l6X4RPEVw">
- <img src="https://img.shields.io/badge/-Rostislav-white?style=flat-square&logo=youtube&logoColor=red&link=https://www.youtube.com/channel/UCuBgbZkcrRdV_9l6X4RPEVw"/>
+ <img src="https://img.shields.io/badge/-RM1238-white?style=flat-square&logo=youtube&logoColor=red&link=https://www.youtube.com/channel/UCuBgbZkcrRdV_9l6X4RPEVw"/>
 </a>
 <a href="https://habr.com/ru/users/RM5638/">
  <img src="https://img.shields.io/badge/-RM5638-blue?style=flat-square&logo=habr&logoColor=white&link=https://habr.com/ru/users/RM5638/"/>
