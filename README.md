@@ -36,9 +36,9 @@
 <a href="mailto: rm9261470349@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="mailto: rostislav-mansurov-08@mail.ru">
+<!-- <a href="mailto: rostislav-mansurov-08@mail.ru">
  <img src="https://img.shields.io/badge/mail-6161ff.svg?style=for-the-badge&logo=mail.ru&logoColor=orange"/>
-</a>
+</a> -->
 <a href="https://vk.com/id689745650">
  <img src="https://img.shields.io/badge/VK-007fff.svg?style=for-the-badge&logo=vk&logoColor=white"/>
 </a>
@@ -54,9 +54,9 @@
 <a href="t.me/RM1238g">
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-<a href="+79261470349">
+<!-- <a href="+79261470349">
  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+</a> -->
 
 </p>
 
