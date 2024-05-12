@@ -51,7 +51,7 @@
 <a href="mailto: ghost_programmer_levi">
  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-<a href="t.me/RM1238g">
+<a href="https://t.me/RM1238g">
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 <!-- <a href="+79261470349">
