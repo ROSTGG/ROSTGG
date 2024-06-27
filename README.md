@@ -1,5 +1,5 @@
 
-### Hi, I'm Rostislav Mansurov  <img src="https://img.icons8.com/color/20/000000/instagram-verification-badge.png"/><a href="" target="_blank"> <img align="right" src="https://komarev.com/ghpvc/?username=ROSTGG"/> 
+### Hi, I'm Rostislav  <img src="https://img.icons8.com/color/20/000000/instagram-verification-badge.png"/><a href="" target="_blank"> <img align="right" src="https://komarev.com/ghpvc/?username=ROSTGG"/> 
 <p align="right">
 
 </p>
