@@ -1,3 +1,4 @@
+
 ### Hi, I'm Rostislav, a freelance backend developer, I live near Moscow, Russia.  <img src="https://img.icons8.com/color/20/000000/instagram-verification-badge.png"/><a href="" target="_blank"> <img align="right" src="https://komarev.com/ghpvc/?username=ROSTGG"/> 
 <p align="right">
 
@@ -51,10 +52,11 @@
 
 </p>
 <h2 align="left">What I am currently learning / improving on </h2>
+<p align="center">
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/obsidian-0a0a0a.svg?style=for-the-badge&logo=obsidian&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/Higher_mathematics-0a0a0a.svg?style=for-the-badge&logo=waveform&logoColor=8A2BE2"/>
-
+</p>
 
 
 <h2 align="left">
