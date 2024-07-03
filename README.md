@@ -1,5 +1,4 @@
-
-### Hi, I'm Rostislav  <img src="https://img.icons8.com/color/20/000000/instagram-verification-badge.png"/><a href="" target="_blank"> <img align="right" src="https://komarev.com/ghpvc/?username=ROSTGG"/> 
+### Hi, I'm Rostislav, a freelance backend developer, I live near Moscow, Russia.  <img src="https://img.icons8.com/color/20/000000/instagram-verification-badge.png"/><a href="" target="_blank"> <img align="right" src="https://komarev.com/ghpvc/?username=ROSTGG"/> 
 <p align="right">
 
 </p>
@@ -14,7 +13,6 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 <a href="https://www.artstation.com/user-911673">
  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 </a>
@@ -23,8 +21,9 @@
 <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
 </p>
 
-<p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
+<h2 align="left">Where to find me </h2>
+<p align="center">
 <a href="mailto: rm9261470349@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -51,6 +50,10 @@
 </a> -->
 
 </p>
+<h2 align="left">What I am currently learning / improving on </h2>
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/obsidian-0a0a0a.svg?style=for-the-badge&logo=obsidian&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/Higher_mathematics-0a0a0a.svg?style=for-the-badge&logo=waveform&logoColor=8A2BE2"/>
 
 
 
@@ -64,11 +67,11 @@
 
 
 In short about me:
-- I'm studing at (NO)
-- I'm a schoolboy
+- I'm in high school.
 - I graduated many courses of Programming sphere
 - I'm learning Androing development now
 - **I am open to getting involved in <u>new interesting</u> projects. Please write to the contacts above**
+- Worked with many libraries example: NumPy, aiogram, cv2, SQLite
 
 
 <p>
