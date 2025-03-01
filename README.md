@@ -40,7 +40,7 @@
 <a href="https://habr.com/ru/users/RM5638/">
  <img src="https://img.shields.io/badge/habr-42aaff.svg?style=for-the-badge&logo=habr&logoColor=white"/>
 </a>
-<a href="ghost_programmer_levi">
+<a href="https://github.com/ROSTGG/ROSTGG/blob/main/Link_discord">
  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 <a href="https://t.me/RM1238g">
