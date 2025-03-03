@@ -66,8 +66,9 @@
 <p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 <img align="rightback" src="https://stackoverflow-card.vercel.app/?userID=21817944&theme=dracula" />
-
-
+  
+<p>
+<img align="rightback" src="https://gamer2810.github.io/steam-miniprofile/?accountId=76561199199590440" />
 
 In short about me:
 - I'm in high school.
