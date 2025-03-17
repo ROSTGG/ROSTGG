@@ -1,6 +1,6 @@
 
 ### Hi, I'm Rostislav, a freelance backend developer, I live near Moscow, Russia.  <img src="https://img.icons8.com/color/20/000000/instagram-verification-badge.png"/><a href="" target="_blank"> <img align="right" src="https://komarev.com/ghpvc/?username=ROSTGG"/> 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=freelanceC%2B%2B+backend+developer+from+Russia" alt="Typing SVG" /></a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=C%2B%2B+backend+developer+from+Russia" alt="Typing SVG" /></a>
 <p align="right">
 
 </p>
